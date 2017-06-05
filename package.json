@@ -1,0 +1,23 @@
+{
+  "name": "hxc3-util",
+  "description": "util support ie7+",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --display-error-detail",
+    "dev": "webpack-dev-server --hot --devtool eval --progress --colors "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mudenglong/hxc3-util.git"
+  },
+  "keywords": [
+    "hxc3",
+    "util"
+  ],
+  "author": "hhroot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mudenglong/hxc3-util/issues"
+  },
+  "homepage": "https://github.com/mudenglong/hxc3-util#readme"
+}
