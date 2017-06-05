@@ -1,6 +1,7 @@
 {
   "name": "hxc3-util",
   "description": "util support ie7+",
+  "version": "0.0.1",
   "main": "index.js",
   "scripts": {
     "build": "webpack --display-error-detail",
